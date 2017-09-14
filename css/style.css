@@ -1,0 +1,20 @@
+h1 {
+  margin: 0;
+}
+
+.content {
+  background: blue;
+  height: 200px;
+}
+
+#parallax {
+  background: red;
+  background: url(https://static.pexels.com/photos/20974/pexels-photo.jpg) ;
+  height: 600px;
+}
+#parallax1 {
+  background: red;
+
+  background: url(https://static.pexels.com/photos/257360/pexels-photo-257360.jpeg) ;
+  height: 600px;
+}
